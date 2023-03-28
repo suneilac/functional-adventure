@@ -1,6 +1,5 @@
 
 # Functional Adventure Final Project
-### Suneil Acharya
 
 ### PROJECT STRUCTURE
 ```
